@@ -39,8 +39,11 @@ h1 small {
   font-size: 0.5em;
 }
 h1.subtitulo {
-  font-size: 13px;
+  font-size: 14px;
   font-family: "Source Code Pro", Consolas, monaco, monospace;
+  margin: 20px auto 20px;
+  width: 960px;
+  line-height: 1.45em;
   color: #006400;
 }
 
