@@ -38,8 +38,9 @@ h1 small {
   font-size: 0.5em;
 }
 h3 {
+  font-family: "Source Code Pro", Consolas, monaco, monospace;
   margin-top: 40px;
-  font-size: 14px;
+  font-size: 11px;
 }
 .float {
   float: left;
