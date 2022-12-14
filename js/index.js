@@ -7,7 +7,7 @@ var parcoords = d3.parcoords()("#example")
   .color(color)
   .alpha(0.4);
 // load csv file and create the chart
-d3.csv('analysis10.csv', function(data) {
+d3.csv('analysis16.csv', function(data) {
   parcoords
     .data(data)
     .render()
