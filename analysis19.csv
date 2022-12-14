@@ -1,0 +1,24 @@
+Rol,Card,Uptime,error_code,affectation,Fail month,User Impacted,TTR (mins),Restauration (Auto/Manual),Module
+BRAS, 0/4/CPU0,0y:00m, Transient,NO,Enero,0,0,Auto,A9K-1X100GE-TR
+SEC, 0/3/CPU0,0y:01m, Parity Error,NO,Julio,0,0,Auto,CRS-FP140
+BRAS, 0/RSP0/CPU0,0y:01m, Transient,NO,Julio,0,0,Auto,A9K-VSM-500
+BRAS, 0/RSP0/CPU0,0y:01m, Transient,NO,Julio,0,0,Auto,A9K-VSM-500
+BRAS, 0/2/CPU0,0y:03m, Transient,NO,Junio,0,0,Auto,A9K-MOD160-SE
+VPN,NA,0y:03m, Transient,NO,Agosto,0,0,NA,A9K-1X100GE-SE
+REG, 0/RP1/CPU0,0y:05m, Transient,NO,Agosto,0,0,Auto,CRS-8-PRP-12G
+BRAS,Node,0y:08m,Software,YES,Octubre,28145,20,Manual,Node
+BRAS,NA,0y:10m, Transient,NO,Marzo,0,0,NA,A9K-1X100GE-TR
+BRAS, 0/2/CPU0,0y:10m, Transient,NO,Marzo,0,0,Auto,A9K-MOD160-SE
+BRAS, 0/2/CPU0,0y:11m, Transient,NO,Agosto,0,0,Auto,A9K-MOD80-SE
+BRAS, 0/6/CPU0,0y:11m,Exp Behav,YES,Abril,4439,Not Available,Manual,A9K-MOD160-SE
+BRAS, 0/3/CPU0,0y:12m, Transient,NO,Enero,0,0,Auto,A9K-MOD160-SE
+BRAS,NA,1y:00m, Transient,NO,Marzo,0,0,NA,A9K-MOD160-SE
+BRAS, 0/6/CPU0,1y:00m, Transient,NO,Mayo,0,0,Auto,A9K-MOD160-SE
+BRAS, 0/RSP1/CPU0,1y:00m, Transient,NO,Junio,0,0,Auto,A9K-MOD160-SE
+BRAS, 0/3/CPU0,1y:01m, Software,YES,Febrero,200,Not Available,Manual,A9K-MOD160-SE
+BRAS, 0/0/CPU0,1y:01m, Hardware,YES,Agosto,2666,329,Manual,A9K-MOD80-SE
+BRAS,NA,1y:03m,Transient,YES,Septiembre,13129,4,Auto,A9K-MOD160-SE
+VPN,NA,1y:04m,Transient,YES,Octubre,316,5,Auto,A9K-24X10GE-1G-SE
+SEC, 0/0/CPU0,1y:09m, Transient,NO,Agosto,0,0,Auto,CRS-LSP400G
+VPN, 0/3/CPU0,2y:08m, Hardware,YES,Agosto,227,16,Manual,A9K-MOD80-SE
+SEC, 0/3/CPU0,2y:09m, Parity Error,NO,Febrero,0,0,Auto,CRS-FP140
